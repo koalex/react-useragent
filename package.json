@@ -1,5 +1,5 @@
 {
-  "name": "koalex/react-useragent",
+  "name": "@koalex/react-useragent",
   "version": "1.2.3",
   "description": "react-useragent React component",
   "main": "lib/index.js",
